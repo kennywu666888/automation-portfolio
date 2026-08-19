@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets / local settings
+.env
+*.env
+!*.env.example
+*config.json
+*settings.json
+*token*
+*cookie*
+*secret*
+
+# Runtime data
+logs/
+log/
+diagnostics/
+screenshots/
+error_reports/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*.tmp
+*.bak
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

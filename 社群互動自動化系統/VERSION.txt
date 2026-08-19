@@ -1,0 +1,2 @@
+2026-08-13: Grant Facebook notifications immediately after Selenium/Playwright attach and dismiss the matching in-page overlay before preflight.
+Facebook_Comment_Reply_Notification_Monitor_V1.0.0_RC19

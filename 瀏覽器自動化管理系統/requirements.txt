@@ -1,0 +1,9 @@
+# Facebook 養號十一項任務 GUI V4.0.0
+# Python 3.12+
+# 安裝指令：pip install -r requirements.txt
+
+selenium>=4.21.0,<5
+requests>=2.32.3,<3
+openai>=1.30.1,<2
+python-dotenv>=1.0.1,<2
+openpyxl>=3.1.5,<4
